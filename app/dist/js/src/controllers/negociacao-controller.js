@@ -1,8 +1,8 @@
-import { DiaDaSemana } from "../enums/dias-da-semana.js";
-import { Negociacao } from "../models/negociacao.js";
-import { Negociacoes } from "../models/negociacoes.js";
-import { MensagemView } from "../views/mensagem-view.js";
-import { NegociacoesView } from "../views/negociacoes-view.js";
+import { DiaDaSemana } from "../enums/dias-da-semana";
+import { Negociacao } from "../models/negociacao";
+import { Negociacoes } from "../models/negociacoes";
+import { MensagemView } from "../views/mensagem-view";
+import { NegociacoesView } from "../views/negociacoes-view";
 export class NegociacaoController {
     constructor() {
         this.negociacoes = new Negociacoes();

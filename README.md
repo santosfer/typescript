@@ -11,9 +11,10 @@ O programa desenvolve é um programa gratuito de formação e inclusão de talen
 - [O projeto](#o-projeto)
    - [Curso 1](#o-que-foi-aprendido--curso-1)
    - [Curso 2](#o-que-foi-aprendido--curso-2)
+   - [Curso 3](#o-que-foi-aprendido--curso-3)
 
 ## O Projeto
-Nesse repositório coloco as aulas que estou acompanhando de typescript, aprendido junto ao Programa Desenvolve. Serão 4 cursos sobre a linguagem, todos acompanhando o mesmo projeto.
+Nesse repositório coloco as aulas que estou acompanhando de typescript, aprendido junto ao Programa Desenvolve. Serão 3 cursos sobre a linguagem, todos acompanhando o mesmo projeto.
 
 ### O que foi aprendido | Curso 1
 Na primeira parte do curso foi possível aprender i básico de typescript e qual sua relação com javascript. Foi aprendido a separar as pastas e quais sua funcionalidades dentro do código. Também foi possível entender que o typescript acaba facilitanto o desenvolvimento do código, pois ele indica os possíveis erros de digitação dentro da própria semântica do código, além de também evitar a compilação do código para 'traduzir' para o javascript caso haja algum erro. Dessa forma fica mais fácil evitar erros diretamente no desenvolvimento do código.
@@ -47,4 +48,7 @@ Também foi possível aprender como manipular o DOM através da linguagem e impr
 
    <br>
 
-   ### O que foi aprendido | Curso 2
+### O que foi aprendido | Curso 2
+Utilizando Herança no Typescript. Aprendendo conceitos de classes 'private', 'protected', 'public'. Realizando, na aplicação, o seu funcionamento somente em datas de dias úteis, aprendendo sobre como utilizar enums e aplicá-los.
+### O que foi aprendido | Curso 3
+Utilizando 'Decorators' para otimizar a aplicação.
